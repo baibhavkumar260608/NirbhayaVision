@@ -1,0 +1,6 @@
+{
+  "name": "NirbhayaVision - Women Safety Analytics",
+  "description": "Real-time AI CCTV surveillance analytics system evaluating campus women safety with multi-factor risk detection (time, place, ambient lux, gender ratio) and automated fail-safe authority escalation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
